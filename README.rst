@@ -1,6 +1,6 @@
-==============
-mishchenko_brf
-==============
+============================
+mishchenko_brf python module
+============================
 
 Compute Bi-directional Reflection Function (BRF) in Python using Fortran Michael Mishchenko's radiative transfer solver.
 
